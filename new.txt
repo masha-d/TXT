@@ -1,0 +1,5 @@
+name:Maria Dusheina,
+age:36,
+pet:0,
+future salary : 1 000 000
+
